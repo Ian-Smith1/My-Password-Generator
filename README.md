@@ -1,1 +1,1 @@
-# test
+This page is a password generator. The code that we recieved did not have the generatePassword funtion defined. In this challenge I assigned the function generatePassword, giving it a string of uppercase and lowercase letters, as well as special characters and numbers. After doing this I set up if statements for each of the prompts that pop up for the password generation. This lets you choose what all you want your password to contain. In this I learned how to effectivley use the concat method as well as the join and push methods.
